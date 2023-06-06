@@ -52,7 +52,7 @@ Consider the following code snippet:
 
 If you execute this snippet e. g. by executing this line from a command shell
 
-    node promisetest.js
+    node promises.js
 
 then you probably get a result similar to the following:
 
